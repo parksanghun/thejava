@@ -1,6 +1,4 @@
-package com.company;
-
-import java.awt.print.Book;
+package kr.co.sanghun.study;
 
 public class Main {
 
