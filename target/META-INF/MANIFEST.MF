@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: Maven Jar Plugin 3.2.0
+Build-Jdk-Spec: 11
+Class-Path: maven-archetype-quickstart-1.4.jar byte-buddy-1.12.6.jar
+Main-Class: kr.co.sanghun.study.Masulsa
+key: value
+mode: development
+url: 
+
